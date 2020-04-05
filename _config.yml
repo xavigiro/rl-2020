@@ -1,4 +1,4 @@
----
+fo---
 
 port: 4000
 host: 0.0.0.0
@@ -14,10 +14,10 @@ markdown: kramdown
 
 
 ### content configuration ###
-title:       "Introduction to Deep Learning 2020"
-keywords:    "artificial intelligence, deep learning, teaching, course, barcelona, upc, catalonia"
-description: "Course page for Deep Learning for Artificial Intelligence at UPC TelecomBCN, Barcelona, Catalonia."
-source_link: "https://telecombcn-dl.github.io/idl-2020/"
+title:       "Reinforcement Learning 2020"
+keywords:    "artificial intelligence, deep learning, reinforcement learning, teaching, course, barcelona, upc, catalonia"
+description: "Course page for Reinforcement Learning at UPC TelecomBCN, Barcelona, Catalonia."
+source_link: "https://telecombcn-dl.github.io/mrl-2020/"
 favicon:     "img/favicon.ico"
 touch_icon:  "img/apple-touch-icon.png"
 
