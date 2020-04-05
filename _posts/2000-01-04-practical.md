@@ -13,6 +13,7 @@ fa-icon: check
 * Teaching language: English
 * Semester: Spring 2020
 * Class Schedule: Fridays from 11:00 to 13:00, from February 21 to April 28.
+* Room: D5-007
 * Capacity: 20 students
 * Location: [Campus Nord UPC, Module D5, Room 010](https://imatge.upc.edu/web/contact)
 * Course on [Atenea](https://atenea.upc.edu/course/view.php?id=56523)
